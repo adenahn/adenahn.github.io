@@ -1,6 +1,6 @@
+<!DOCTYPE html>
 # adenahn.github.io
 First comp sci project 
-<!DOCTYPE html>
 <html>
 <head>
 <link rel="stylesheet" href="styles.css" />
