@@ -8,3 +8,17 @@ h1 {
 h2 {
   font-size: 30px;
 }
+sqrt2.png {
+  float: left; 
+  margin-right: 20px; 
+  margin-bottom: 10px; 
+  max-width: 200px; /* Adjust as needed, prevents images from being too wide */
+  height: auto; /* Maintains aspect ratio */
+}
+square.png {
+  float: left; 
+  margin-right: 20px; 
+  margin-bottom: 10px; 
+  max-width: 200px; /* Adjust as needed, prevents images from being too wide */
+  height: auto; /* Maintains aspect ratio */
+}
