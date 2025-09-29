@@ -2,3 +2,9 @@ body {
     /* Use the exact name 'Open Sans' with the sans-serif generic fallback */
     font-family: 'Open Sans', sans-serif;
 }
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 20px;
+}
