@@ -22,3 +22,6 @@ square.png {
   max-width: 200px; /* Adjust as needed, prevents images from being too wide */
   height: auto; /* Maintains aspect ratio */
 }
+.center-wrapper {
+  margin: 0 auto; 
+}
