@@ -23,5 +23,6 @@ square.png {
   height: auto; /* Maintains aspect ratio */
 }
 .center-wrapper {
+  max-width: 900px; 
   margin: 0 auto; 
 }
